@@ -1,2 +1,2 @@
 # htmlgame
-nothing pratical
+a simple html file
